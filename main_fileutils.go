@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Nosp1/Is-105/is105-ica02/fileutils"
+	"github.com/Henrikohlsen/Is-105/is105-ica02/fileutils"
 )
 
 func main ()  {
